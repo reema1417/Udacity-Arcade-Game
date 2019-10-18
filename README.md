@@ -4,7 +4,8 @@ This game consists of a player character and enemy bugs. The goal of the game is
 # How to play
 Using the UP, DOWN, LEFT and RIGHT keys on your keyboard, move the character to the water. Must be you avoid the bugs because it decreases your score. If you collect 10 score then you win.
 
-
+# Live Demo
+https://reema1417.github.io/Udacity-Arcade-Game/
 
 
 
